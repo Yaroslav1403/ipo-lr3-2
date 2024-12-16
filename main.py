@@ -7,7 +7,7 @@ if number_1 > number_2:
     print(f"Второе число {number_2} < первого числа {number_1}")
 #Если второе число больше первого
 elif number_2 > number_1:
-    print(f"Первое число {number_1} < второго числа {number_2}")
+    print(f"Второе число {number_2} > первого числа {number_1}")
 #Оба числа равны
 else:
      print(f"{number_1} = {number_2} - ваши числа равны")
